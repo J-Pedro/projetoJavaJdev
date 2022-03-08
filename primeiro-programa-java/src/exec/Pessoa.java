@@ -7,7 +7,6 @@ public class Pessoa {
 	private String nome;
 	private Date dataNasc;
 	private int cpf;
-	private String endereco;
 
 	public String getNome() {
 		return nome;
